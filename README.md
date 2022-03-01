@@ -2,6 +2,6 @@
 Produces message for application tests.
 
 
-Running Application:
+# Running Application:
 
 go run main.go
